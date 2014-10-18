@@ -1,5 +1,4 @@
 class PrimePalindromeCalculator
-
   def get_largest_pp(current_num)
     if is_palindrome?(current_num.to_s)
       is_prime?(current_num) ? current_num : get_largest_pp(current_num - 1)
