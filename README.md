@@ -12,6 +12,7 @@ Easy:
 - Sum of Primes (Sum of first 1000 primes); ruby
 - Fizz Buzz (A simple game involving divisibility tests); ruby, javascript
 - Lowercase (Lowercase text); ruby
+- Sum of integers from file; ruby
 
 Moderate:
 - Longest Lines (Finding the 'N' longest lines within a file); ruby
