@@ -18,3 +18,4 @@ Easy:
 
 Moderate:
 - Longest Lines (Finding the 'N' longest lines within a file); ruby
+- Stack Implementation (Implement a stack interface)
