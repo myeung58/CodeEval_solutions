@@ -13,6 +13,7 @@ Easy:
 - Fizz Buzz (A simple game involving divisibility tests); ruby, javascript
 - Lowercase (Lowercase text); ruby
 - Sum of integers from file; ruby
+- Nice Angles (Convert angle values to sexagesimal format)
 
 Moderate:
 - Longest Lines (Finding the 'N' longest lines within a file); ruby
