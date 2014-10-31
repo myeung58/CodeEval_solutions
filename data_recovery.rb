@@ -16,3 +16,4 @@ content = File.readlines(ARGV[0]).each do |line|
   line = line.chomp.split(";")
   puts recover(line[0].split(" "), line[1].split(" "))
 end
+
