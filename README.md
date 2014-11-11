@@ -15,8 +15,9 @@ Easy:
 - Sum of integers from file; ruby
 - Nice Angles (Convert angle values to sexagesimal format); ruby
 - multiples of a number (Multiples of a number greater than another number); ruby
-- sum of digits (Sum of digits comprising a number); ruby
+- Sum of Digits (Sum of digits comprising a number); ruby
 - Fibonacci Series (Print out the nth fibonacci number); ruby
+- Mixed Content (Separate words with digits); ruby
 
 Moderate:
 - Longest Lines (Finding the 'N' longest lines within a file); ruby
