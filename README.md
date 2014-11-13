@@ -18,6 +18,7 @@ Easy:
 - Sum of Digits (Sum of digits comprising a number); ruby
 - Fibonacci Series (Print out the nth fibonacci number); ruby
 - Mixed Content (Separate words with digits); ruby
+- Rightmost Char (Print the position of the rightmost occurrence of a char); ruby
 
 Moderate:
 - Longest Lines (Finding the 'N' longest lines within a file); ruby
