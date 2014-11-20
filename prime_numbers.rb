@@ -1,3 +1,4 @@
+# look for a better solution
 def prime(n)
   result = []
   (1..n).to_a.each do |num|
