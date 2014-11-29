@@ -20,6 +20,7 @@ Easy:
 - Mixed Content (Separate words with digits); ruby
 - Rightmost Char (Print the position of the rightmost occurrence of a char); ruby
 - Penultimate Word (Find the next-to-last word); ruby
+- Word to Digit (Substitute words to digits); ruby
 
 Moderate:
 - Longest Lines (Finding the 'N' longest lines within a file); ruby
