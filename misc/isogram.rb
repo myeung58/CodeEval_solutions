@@ -1,3 +1,4 @@
+# first solution
 def is_isogram(string)
   return true unless string.length > 0
   arr = []
@@ -9,3 +10,14 @@ def is_isogram(string)
   end
   result
 end
+
+p is_isogram('abc') == true
+p is_isogram('Aab') == false
+
+# second solution
+def is_isogram(string)
+  string.downcase.split('').uniq.length == string.length
+end
+
+p is_isogram('abc') == true
+p is_isogram('Aab') == false
