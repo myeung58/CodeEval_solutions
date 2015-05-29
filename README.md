@@ -28,4 +28,5 @@ Moderate:
 - Mth to Last Element (Determine the Mth to last element of a list); ruby
 - First non-repeated character (Find the first non repeated character in a string); ruby
 - Double Squares (FaceBook Hacker Cup 2011: Output the number of ways to write X as the sum of two squares); ruby
-- Interrupted Bubble Sort (Sort a list of elements. Partially.); ruby
+- Interrupted Bubble Sort (Sort a list of elements. Partially); ruby
+- Gronsfeld Cipher (Decipher the message enciphered with the Gronsfeld cipher); ruby
