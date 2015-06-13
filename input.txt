@@ -1,2 +1,4 @@
-how are you, abc
-hello world, def
+Hello world
+javaScript language
+a letter
+1st thing
